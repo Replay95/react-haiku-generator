@@ -1,6 +1,8 @@
 import "./App.css";
 import { useState } from "react";
 
+//おーい、お茶
+
 function App() {
   const [inputText, setInputText] = useState("");
   const [text, setText] = useState([]);
